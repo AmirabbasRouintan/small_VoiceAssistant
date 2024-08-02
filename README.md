@@ -1,4 +1,4 @@
-# ixi_flower 💐
+# ixi_flower 
 
 **A Voice-Activated AI Companion 🤖**
 
@@ -22,4 +22,4 @@ FlowerBot is a Python-based voice assistant that can understand and respond to v
 
 1. Clone the repository ⬇️
 2. Install dependencies 📦
-3. Run the bot: `python python.py` 🐍
+3. Run the bot: `python python.py` 
